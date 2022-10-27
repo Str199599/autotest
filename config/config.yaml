@@ -1,0 +1,11 @@
+desired_caps:
+  platformName: Android
+  platformVersion: 7
+  deviceName: xxx
+  appPackage: com.example.myapplication
+  appActivity: .MainActivity
+  unicodeKeyboard: True
+  resetKeyboard: True
+  noReset: False
+  newCommandTimeout: 6000
+  automationName : UiAutomator2
